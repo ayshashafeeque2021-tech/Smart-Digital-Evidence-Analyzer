@@ -261,11 +261,11 @@ with right:
         )
 
     st.markdown('<div class="panel"><div class="panel-title">💡 Key Findings</div></div>', unsafe_allow_html=True)
-    st.markdown("🔴 Suspicious website detected (phishing indicator)")
-    st.markdown("🟠 Sensitive file accessed (password/secret)")
-    st.markdown("🟢 External IP address used")
-    st.markdown("🩷 Unusual login time (23:45)")
-    st.markdown("⚠️ Possible attack chain detected")
+    st.markdown(":material/gpp_bad:<span style='color:red;font-weight:bold;'>Suspicious Website Detected-Phishing Indicator<span>",unsafe_allow_html=True)
+    st.markdown(":material/lock_open:<span style='color:#EA580C;font-weight:bold,'>Sensitive File Accessed</span>",unsafe_allow_html=True)
+    st.markdown(":material/public:<span style='color:#16A34A;font-weight:bold;'>External IP Address Used</span>",unsafe_allow_html=True)
+    st.markdown(":material/schedule:<span style='color:#DB2777;font-weight:bold;'>Unusual Login Time(23:45)</span>",unsafe_allow_html=True)
+    st.markdown(":material/account_tree:<span style='color:#DC2626;font-weight:bold;'>Possible Attack Chain Detected</span>",unsafe_allow_html=True)
 
     st.markdown("""
     <div style="background:#111f57;border:1px solid #293d85;border-radius:12px;padding:15px;margin-top:12px;">
