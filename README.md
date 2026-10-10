@@ -55,7 +55,8 @@ streamlit run "app (4).py"
 ## 7. Output Screenshots
 
 ![Output Screenshot](docs/output1.png)
-
+![Output Screenshot](docs/output2.png)
+![Output Screenshot](docs/output3.png)
 **Output Description:** The prototype presents the results of rule-based analysis, including flagged events, risk scores, and reasons for identifying potentially suspicious activity, depending on the implemented features.
 
 ## 8. Future Scope
