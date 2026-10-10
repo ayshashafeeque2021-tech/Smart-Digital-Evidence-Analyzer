@@ -32,10 +32,26 @@ Our solution is a beginner-level web-based prototype designed to support digital
 ## 6. Quick Start Guide
 
 **Prerequisites:**
-- Python 3.12 or a compatible Python version
+- Python 3.12 or a compatible version
 - pip package manager
-- Internet connection for initial dependency installation
 
+**Installation & Execution:**
+
+1. Install Streamlit:
+
+```bash
+pip install streamlit
+```
+
+2. Navigate to the folder containing your Python file.
+
+3. Run the application:
+
+```bash
+streamlit run "App (4).py"
+```
+
+4. Open the local URL displayed in the terminal to access the website.
 ## 7. Output Screenshots
 
 ![Output Screenshot](docs/output.png)
