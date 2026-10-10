@@ -48,7 +48,7 @@ pip install streamlit
 3. Run the application:
 
 ```bash
-streamlit run "App (4).py"
+streamlit run "app (4).py"
 ```
 
 4. Open the local URL displayed in the terminal to access the website.
