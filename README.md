@@ -36,15 +36,6 @@ Our solution is a beginner-level web-based prototype designed to support digital
 - pip package manager
 - Internet connection for initial dependency installation
 
-**Installation and Execution:**
-
-Clone or download this repository and open its project folder in the terminal.
-
-```bash
-pip install streamlit
-streamlit run "app (4).py"
-```
-
 ## 7. Output Screenshots
 
 ![Output Screenshot](docs/output.png)
