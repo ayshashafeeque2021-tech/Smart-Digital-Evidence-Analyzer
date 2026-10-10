@@ -45,8 +45,6 @@ pip install streamlit
 streamlit run "app (4).py"
 ```
 
-Replace `app.py` with the actual Python filename if your application uses a different name. Streamlit will provide a local URL to open the website in your browser.
-
 ## 7. Output Screenshots
 
 ![Output Screenshot](docs/output.png)
