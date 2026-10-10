@@ -54,7 +54,7 @@ streamlit run "app (4).py"
 4. Open the local URL displayed in the terminal to access the website.
 ## 7. Output Screenshots
 
-![Output Screenshot](docs/output.png)
+![Output Screenshot](docs/output1.png)
 
 **Output Description:** The prototype presents the results of rule-based analysis, including flagged events, risk scores, and reasons for identifying potentially suspicious activity, depending on the implemented features.
 
